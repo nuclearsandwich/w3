@@ -1,0 +1,4 @@
+/* My screen is fucked up and this yellow doesn't show. Waaaat. */
+.list-browser-item.navigation-focus, .navigation-focus {
+	background-color: rgb(225, 235, 200) !important;
+}
